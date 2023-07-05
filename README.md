@@ -18,17 +18,6 @@ TrailBlazers is a full-stack web application where users can leave reviews on hi
 - Mangage user account with basic functionalities
 
 ## Installation
-
-1. Clone the repository:
-```shell
-git clone https://github.com/vtbell21/TrailBlazers.git
-```
-2. Install dependencies:
-```shell
-npm install
-```
-
-## Usage
 1. Install [mongodb](https://www.mongodb.com/)
 2. Create a Cloudinary account to get an API key and secret code
    ```shell
@@ -42,6 +31,6 @@ npm install
     API_KEY=''<key>
     API_SECRET='<secret>'
     ```
-4. Run 'mongod' in another terminal and node app.js in the terminal with your project and go to 'localhost:3000'
+4. Run `mongod` in another terminal and node app.js in the terminal with your project and go to `localhost:3000`
 
 
