@@ -31,6 +31,6 @@ TrailBlazers is a full-stack web application where users can leave reviews on hi
     API_KEY=''<key>
     API_SECRET='<secret>'
     ```
-4. Run `mongod` in another terminal and node app.js in the terminal with your project and go to 'localhost:3000'
+4. Run `mongod` in another terminal and node app.js in the terminal with your project and go to 'http://localhost:3000'
 
 
