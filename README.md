@@ -28,3 +28,20 @@ git clone https://github.com/vtbell21/TrailBlazers.git
 npm install
 ```
 
+## Usage
+1. Install [mongodb](https://www.mongodb.com/)
+2. Create a Cloudinary account to get an API key and secret code
+   ```shell
+   git clone https://github.com/vtbell21/TrailBlazers.git
+   cd TrailBlazers
+   npm install
+    ```
+3. Create a .env file in the root of the project and add:
+    ```shell
+    DATABASEURL='<url>'
+    API_KEY=''<key>
+    API_SECRET='<secret>'
+    ```
+4. Run 'mongod' in another terminal and node app.js in the terminal with your project and go to 'localhost:3000'
+
+
