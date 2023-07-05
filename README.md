@@ -5,15 +5,15 @@ TrailBlazers is a full-stack web application where users can leave reviews on hi
 ## Features
 
 - Authentication
-  ..* User login with username and password
+  - User login with username and password
 - Authorization
-  ..* Users cannot manage posts and view user profile without being authenticated
-  ..* Users cannot edit or delete posts and comments created by other users
-  ..* Admin can manage all posts and comments
+  - Users cannot manage posts and view user profile without being authenticated
+  - Users cannot edit or delete posts and comments created by other users
+  - Admin can manage all posts and comments
 - Manage trail reviews with basic functionalities
-  ..* Create, edit and delete posts and comments
-  ..* Upload campground photos
-  ..* Search existing trails
+  - Create, edit and delete posts and comments
+  - Upload campground photos
+  - Search existing trails
 - Responsive web design
 - Mangage user account with basic functionalities
 
