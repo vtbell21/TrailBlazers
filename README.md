@@ -35,5 +35,5 @@ TrailBlazers is a full-stack web application where users can leave reviews on hi
 
 ## Images
 
-![Local Image](file:///C:/Users/greas/OneDrive/Pictures/Saved%20Pictures/Project2.png)
+
 
