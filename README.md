@@ -2,6 +2,8 @@
 
 TrailBlazers is a full-stack web application where users can leave reviews on hiking trails. Developed using JavaScript, HTML, CSS, Node.js, Express, and MongoDB, with full CRUD functionality that enables users to easily create, read, update, and delete their reviews.
 
+![Alt Text](Project2.png)
+
 ## Features
 
 - Authentication
@@ -32,8 +34,5 @@ TrailBlazers is a full-stack web application where users can leave reviews on hi
     API_SECRET='<secret>'
     ```
 4. Run `mongod` in another terminal and node app.js in the terminal with your project and go to 'http://localhost:3000'
-
-## Images
-
 
 
